@@ -6,7 +6,7 @@
 
 在 OpenWrt 源码根目录下 feeds 文件中添加此仓库地址
 
-    echo "git-src https://github.com/KimJungWha/oneko" >> feeds.conf.default
+    echo "src-git https://github.com/KimJungWha/oneko" >> feeds.conf.default
 
 更新并创建源码的软链接
 
